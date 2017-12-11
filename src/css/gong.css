@@ -1,0 +1,18 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+html{
+	font-size:62.5%;
+}
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+.clearfix:after{
+    content: "";
+    display: table;
+    clear: both;
+}
